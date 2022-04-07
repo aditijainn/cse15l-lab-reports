@@ -1,4 +1,7 @@
 hello world!
+
+new text
+
 *Italic*
 
 **Bold**
