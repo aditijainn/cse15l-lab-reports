@@ -12,6 +12,8 @@
 
 [Lab Report 4](https://aditijainn.github.io/cse15l-lab-reports/lab-report-4-week-8)
 
+[Lab Report 5](https://aditijainn.github.io/cse15l-lab-reports/lab-report-5-week-10)
+
 ---
 
 **Markdown Language Techniques:**
